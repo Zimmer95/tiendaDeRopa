@@ -92,7 +92,7 @@ section#carrito{
     font-size: x-large;
 }
 
-.card-img-top-productos{
+.productos{
     min-height: 400px;
     object-fit: cover;
     background-color: rgb(34, 56, 75);
