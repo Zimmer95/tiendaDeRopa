@@ -3,6 +3,8 @@
 }
 
 .cabecera{
+    background-image: url("/img/productos/cerrar-personas-sosteniendo-bolsas-compra.jpg");
+    background-size: cover;
     background-color: rgb(34, 56, 75);
 }
 
@@ -83,4 +85,14 @@ section#carrito{
 
 .table{
     color: #fff;
+}
+
+.total{
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.card-img-top{
+    min-height: 400px;
+    object-fit: cover;
 }
