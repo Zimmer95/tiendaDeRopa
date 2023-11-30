@@ -3,7 +3,7 @@
 }
 
 .cabecera{
-    background-image: url("/img/productos/cerrar-personas-sosteniendo-bolsas-compra.jpg");
+    background-image: url("https://zimmer95.github.io/tiendaDeRopa/img/productos/cerrar-personas-sosteniendo-bolsas-compra.jpg");
     background-size: cover;
     background-color: rgb(34, 56, 75);
 }
@@ -95,4 +95,5 @@ section#carrito{
 .card-img-top{
     min-height: 400px;
     object-fit: cover;
+    background-color: rgb(34, 56, 75);
 }
