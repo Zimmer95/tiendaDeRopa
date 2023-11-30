@@ -87,6 +87,10 @@ section#carrito{
     color: #fff;
 }
 
+.total{
+    font-weight: bolder;
+    font-size: x-large;
+}
 
 .card-img-top{
     min-height: 400px;
